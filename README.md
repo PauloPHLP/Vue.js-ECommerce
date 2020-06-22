@@ -7,7 +7,7 @@
 ## 🔎️ Description
 An E-Commerce POC made with Vue.js.
 
-This project was made during the <a href="https://www.udemy.com/course/vuejs-from-beginner-to-professional/>Vue JS 2: From Beginner to Professional</a> course on Udemy.
+This project was made during the <a href="https://www.udemy.com/course/vuejs-from-beginner-to-professional/">Vue JS 2: From Beginner to Professional</a> course on Udemy.
 
 ## 🚀️ Technologies
 
